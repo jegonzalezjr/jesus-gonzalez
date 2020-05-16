@@ -1635,7 +1635,8 @@ input, select, textarea {
 		margin-top: 2rem;
 		text-align: center;
 	}
-        #footer .jg {
+
+                #footer .jg {
 			letter-spacing: 0.2rem;
 			font-size: 0.6rem;
 			opacity: 0.75;
