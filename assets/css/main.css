@@ -1,7 +1,7 @@
+/*
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
 
-/*
 	Dimension by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
@@ -55,6 +55,7 @@ body {
 	-webkit-text-size-adjust: none;
 }
 
+/*
 mark {
 	background-color: transparent;
 	color: inherit;
@@ -64,6 +65,7 @@ input::-moz-focus-inner {
 	border: 0;
 	padding: 0;
 }
+*/
 
 input, select, textarea {
 	-moz-appearance: none;
@@ -72,7 +74,7 @@ input, select, textarea {
 	appearance: none;
 }
 
-/* Basic */
+/*
 
 	@-ms-viewport {
 		width: device-width;
@@ -85,6 +87,7 @@ input, select, textarea {
 		}
 
 	}
+*/
 
 	html {
 		box-sizing: border-box;
